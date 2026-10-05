@@ -1,11 +1,11 @@
-# 🔒 NovaEscrow — Multi-Chain Discord Escrow Bot
+# 🔒 MarketixEscrow — Multi-Chain Discord Escrow Bot
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org)
 [![Discord.py](https://img.shields.io/badge/discord.py-2.3%2B-5865F2.svg?style=for-the-badge&logo=discord)](https://discordpy.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-Alberto_Ortiz-orange.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/)
 
-**NovaEscrow** is a state-of-the-art, fully automated multi-chain cryptocurrency escrow bot designed for Discord communities. It enables secure, trustless Peer-to-Peer (P2P) trading of cryptocurrencies directly within private channels, backed by real-time blockchain monitoring.
+**MarketixEscrow** is a state-of-the-art, fully automated multi-chain cryptocurrency escrow bot designed for Discord communities. It enables secure, trustless Peer-to-Peer (P2P) trading of cryptocurrencies directly within private channels, backed by real-time blockchain monitoring.
 
 ---
 
